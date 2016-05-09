@@ -1,0 +1,28 @@
+name: BeautyEmpties
+favicon: null
+layout_spectrum: 0.04271793854422867
+typography_spectrum: 0.21873665787279606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7991334011312574
+  lightness: 0.43358152615837753
+  saturation: 0.6400463185273111
+  rhythmicContrast: 0.13362759328447282
+purpose: []
